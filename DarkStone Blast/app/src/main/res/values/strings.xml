@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dragonite</string>
+
+    <string name="darkStone_blast">DarkStone Blast</string>
+
+    <string name="name">Nombre</string>
+    <string name="todo">TODO</string>
+
+    <string name="search">¿Qué estás buscando?</string>
+
+    <string name="text_todo">Texto</string>
+
+    <string name="text_blasting">Blasting</string>
+    <string name="text_drilling">Drilling</string>
+    <string name="fundamental_concepts">CONCEPTOS FUNDAMENTALES</string>
+    <string name="why_is_it_relevant">¿POR QUÉ ES RELEVANTE?</string>
+    <string name="basic_principles">PRINCIPIOS BÁSICOS</string>
+    <string name="practical_applications">APLICACIONES PRÁCTICAS</string>
+    <string name="common_challenges">DESAFÍOS COMUNES</string>
+    <string name="recent_developments">AVANCES RECIENTES</string>
+    <string name="conclusion">CONCLUSIÓN</string>
+    <string name="additional_resources">RECURSOS ADICIONALES</string>
+    <string name="link_description">Perfil del Facilitador</string>
+
+</resources>
